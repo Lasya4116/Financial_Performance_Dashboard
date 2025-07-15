@@ -21,7 +21,7 @@ This Power BI dashboard visualizes:
 
 ## 📁 Files Included
 
-- Financial_Performance_Dashboard.pbix – The Power BI project file (upload this to GitHub).
+- Financial_Performance_Dashboard.pbix – The Power BI project file .
 - README.md – This documentation file.
 
 ---
